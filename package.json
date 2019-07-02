@@ -5,6 +5,9 @@
   "repository": "git@github.com:postsw7/gatsby-demo.git",
   "author": "Siwoo <postsw7@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "gatsby build"
+  },
   "dependencies": {
     "gatsby": "^2.11.6",
     "gatsby-source-graphql": "^2.1.0",
